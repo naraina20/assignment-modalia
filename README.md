@@ -40,6 +40,9 @@ npm run test
   - Testing Abort and Clear functionality.
 - Ensures core features work consistently and regressions are minimized.
 
+## Took more time
+- I know the project is simple and expected to take lessor time to complete but I thought that I should complete it without taking help of Ai at least the core functionality of that webapp. So it took time to think about genrate function and all. 
+- One more reason for the late submission is the use of Cypress. I used Cypress in my previous company at a basic level, and it took me some time to get it done.
 
 ## Leverage AI to accelerate workflow
 
